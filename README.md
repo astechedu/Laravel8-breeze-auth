@@ -3,15 +3,15 @@
 
 ## Steps
 
-    Installation of Laravel Application
-    Install Breeze
-    Run Migration
-    Breeze Authentication Controllers
-    Breeze Authentication Routes
-    Breeze Authentication Views
-    Application Testing
+    1. Installation of Laravel Application
+    2. Install Breeze
+    3. Run Migration
+    4. Breeze Authentication Controllers
+    5. Breeze Authentication Routes
+    6. Breeze Authentication Views
+    7. Application Testing
 
-### Installation of Laravel Application
+### 1. Installation of Laravel Application
 
   By Laravel Installer
 
@@ -37,7 +37,7 @@ Assuming laravel already installed at system.
 
 Database also configured with application.
 
-## Install Breeze
+## 2. Install Breeze
 
 	$ composer require laravel/breeze --dev
 
@@ -49,17 +49,17 @@ After this command need to run the command
 
 	$ npm install && npm run dev
 
-## Run Migration
+## 3. Run Migration
 
 	$ php artisan migrate
 
 Look and check in project:
 
-Breeze Authentication Controllers
+## 4. Breeze Authentication Controllers
 
 	Authentication controller we can find into the path /app/Http/Controllers/Auth
 
-Breeze Authentication Routes
+## 5. Breeze Authentication Routes
 
 	Application routes configuration we can find into the directory /routes. File name is auth.php. 
 
@@ -67,11 +67,12 @@ Have a look.
 
 web.php -> require DIR.’/auth.php’;
 
-Breeze Authentication Views
+## 6. Breeze Authentication Views
 
 Blade template files after generating breeze scaffolding we can find at path /resources/views/auth
 
-### Application Testing
+### 7. Application Testing
+
 	$ php artisan serve
 
 On Browser type: 
