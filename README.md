@@ -1,5 +1,5 @@
 
-# Laravel 8 Authentication with Breeze Tutorial
+# Laravel 8 Authentication with Breeze
 
 ## Steps
 
