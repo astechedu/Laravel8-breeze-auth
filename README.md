@@ -13,7 +13,7 @@
 
 ### Installation of Laravel Application
 
-  Laravel Installer
+  By Laravel Installer
 
 	$ composer global require laravel/installer
     $ laravel
@@ -77,7 +77,7 @@ Blade template files after generating breeze scaffolding we can find at path /re
 On Browser type: 
    URL – 127.0.0.1:8000
 
-In Last check 'Login' & 'Register'
+In Last check 'Login' & 'Register' links or pages
 
 
 :+1:
