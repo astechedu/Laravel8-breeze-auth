@@ -20,7 +20,7 @@
   By Laravel Installer
 
 	$ composer global require laravel/installer
-    $ laravel
+    
     $ laravel new blog
 
         OR
