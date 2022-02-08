@@ -6,7 +6,7 @@
 
 | SNo.     | Steps      |
 | ------------- | ------------- |
-| 1         | Installation of Laravel Application        |
+| 1         | Installation of Laravel Application        | 
 | 2           | Install Breeze        |
 | 3           | Run Migration        |
 | 4           | Breeze Authentication Controllers        |
