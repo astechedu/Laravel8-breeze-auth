@@ -31,9 +31,9 @@
 
 To start the development server of Laravel 
   	
-  	$ php artisan serve
+    $ php artisan serve
 
-  	This command outputs: -
+  This command outputs: -
 
   	Starting Laravel development server: http://127.0.0.1:8000
 
