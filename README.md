@@ -1,6 +1,10 @@
 
 # Laravel 8 Authentication with Breeze
 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmukjdZSQOQUSjRdzZNUXkcIhZFEFDar1wrA&usqp=CAU" width="140" height="80">
+
+
+
 ## Steps
 
     1. Installation of Laravel Application
