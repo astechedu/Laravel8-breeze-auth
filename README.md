@@ -4,16 +4,16 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmukjdZSQOQUSjRdzZNUXkcIhZFEFDar1wrA&usqp=CAU" width="140" height="80">
 
 
+| SNo.     | Steps      |
+| ------------- | ------------- |
+| 1         | Installation of Laravel Application        |
+| 2           | Install Breeze        |
+| 3           | Run Migration        |
+| 4           | Breeze Authentication Controllers        |
+| 5           | Breeze Authentication Routes        |
+| 6           | Breeze Authentication Views        |
+| 7           | Application Testing        |
 
-## Steps
-
-    1. Installation of Laravel Application
-    2. Install Breeze
-    3. Run Migration
-    4. Breeze Authentication Controllers
-    5. Breeze Authentication Routes
-    6. Breeze Authentication Views
-    7. Application Testing
 
 ### 1. Installation of Laravel Application
 
